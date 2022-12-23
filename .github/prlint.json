@@ -1,7 +1,7 @@
 {
     "title": [
       {
-        "pattern": "((?<!([A-Z]{1,10})-?)[A-Z]+-\\d+)",
+        "pattern": "JIRA-ID",
         "message": "Your title needs to be prefixed with a topic"
       }
     ]
